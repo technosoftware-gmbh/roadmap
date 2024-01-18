@@ -41,6 +41,9 @@ Once we know what version we are delivering a feature or fix of an issue, we wil
 
 The following is a list of our current feature areas:
 
+- **documentation:** Documentation related
+- **enhancements:** General enhancements, typically not solution related
+- **security & compliance:** Code security and OPC compliance features
 - **other:** Other features
 
 ## Feature
