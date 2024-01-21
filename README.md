@@ -16,7 +16,7 @@ Every item on the roadmap is an issue, with a label that indicates each of the f
 
 - One or more **solution SKU** labels that indicate which solution SKUs we expect the feature to be available in. For a list of current solution SKUs, see below.
 
-- Once a feature is delivered, the **deliverd** label will be applied to the roadmap issue and the issue will be closed with a comment.
+- Once a feature is delivered, the **delivered** label will be applied to the roadmap issue and the issue will be closed with a comment.
 
 ## Release phases
 
