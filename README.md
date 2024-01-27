@@ -28,8 +28,11 @@ Limited availability, features and fixes for issues still under heavy developmen
 - **support:** *Available only for customers with support subscription*\
 Features and fixes for issues mostly complete and documented. Timeline and requirements for general availability usually published. Only available for customers with a support subscription.
 
+- **source:** *Available to all customers as source*\
+Features and fixes for issues ready for production use and available to all customers using the source of the soultions.
+
 - **all:** *Generally available to all customers*\
-Features and fixes for issues ready for production use and available to all customers.
+Features and fixes for issues ready for production use and available to all customers as source and local nuget packages.
 
 ## Roadmap stages
 
